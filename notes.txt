@@ -42,4 +42,6 @@ Git团队协作机制：
 	将远程仓库的内容克隆到本地：git clone 远程地址
 	将远程库对于分支最新内容拉下来后与当前本地分支直接合并：git pull 远程库地址别名 远程分支名
 别名既可以拉取也可以推送
+	克隆远程库到本地：git clone
+团队内协作：Manage access---invite a collaborator---pending invite
 
